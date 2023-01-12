@@ -1,0 +1,37 @@
+* {
+    font-family: 'Inter', sans-serif;
+}
+
+.wrapper {
+    height: 1000px;
+}
+
+nav, .row-1 {
+    background-color: #000000;
+}
+
+.nav-proj, .nav-intro, .nav-pod, .nav-vid, .nav-photo, .nav-team {
+    color: #00BFFF;
+}
+
+.row-2 {
+    background-color: #000000;
+    color: rgb(245, 240, 240);
+}
+
+.story {
+    color: #00BFFF;
+}
+
+.intro-header {
+    color: white;
+}
+
+.card-name, .intro, .pod, .vid, .pod, .pic, .linkedin-acct, .team {
+    color: #00BFFF;
+}
+
+.card-box {
+    background-color: #000000;
+    color: white;
+}
